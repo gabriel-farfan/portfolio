@@ -13,9 +13,9 @@ const Home = () => {
 
         <img src={Profile} pl-8 alt="Logo Image" style={{ width: "15rem" }} />
       </div>
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center min-h-screen w-2/3 " >
+      <div className="max-w-[1000px] mx-auto pt-12 px-8 flex flex-col justify-center min-h-screen w-2/3 " >
         <p className="text-2xl text-[#A8DADC]">Hi! my name is</p>
-        <h1 className="md:text-4xl lg:text-6xl  font-bold text-[#d8fc37] ">
+        <h1 className="text-4xl md:text-4xl lg:text-6xl  font-bold text-[#d8fc37] ">
           Gabriel Farfán
         </h1>
         <h2 className="sm:text-3xl lg:text-4xl  font-bold py-2 text-[#cefcfd]">
