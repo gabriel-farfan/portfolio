@@ -25,7 +25,7 @@ const Home = () => {
         </h2>
         <p className="text-xl md:text-2xl text-[#A8DADC] py-2 max-w-[700px]">
           I am looking for an opportunity to start my career in technology.
-          Available for new challenges. Let's work together!
+          Available for new challenges.
         </p>
         <p className="text-xl md:text-2xl text-[#A8DADC] py-2 max-w-[700px]">
           Let's work together!
