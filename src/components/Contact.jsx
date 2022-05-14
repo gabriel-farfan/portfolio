@@ -1,11 +1,37 @@
 import React from 'react'
+import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
+import { Link } from "react-scroll";
 
 const Contact = () => {
   return (
-    <div name='contact' className='w-full h-screen sm:pt-32 flex justify-center items-center p-4'>
+    <div name='contact' className='w-full h-auto sm:pt-32 flex justify-center items-center p-4 flex-col '>
+      <p className='text-4xl font-bold inline border-b-4 border-[#d8fc37] text-[#eeeeee]'>Contact</p>
+
+      <div className="w-full grid grid-cols-3 sm:grid-cols-3 gap-4 text-center py-8 flex-row mx-36 ">
+          <div>
+            <a
+              href="https://www.linkedin.com/in/gabriel-farfan/">
+              <FaLinkedin className="w-16 h-auto mx-auto" />
+            </a>
+          </div>
+
+          <div>
+            <a href="https://github.com/gabriel-farfan/">
+              <FaGithub className="w-16 h-auto mx-auto" />
+            </a>
+          </div>
+
+          <div>
+            <a href="https://wa.me/+5493516101945">
+              <FaWhatsapp className="w-16 h-auto mx-auto" />
+            </a>
+          </div>
+
+        </div>
+
         <form method='POST' action="https://getform.io/f/65c41083-9916-4ef2-a04e-249c93727d6e" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-[#d8fc37] text-[#eeeeee]'>Contact</p>
+                
                 <p className='text-[#eeeeee] py-4'>Submit the form below or shoot me an email - <span className='font-bold text-[#051F39]'>gmfarfan85@gmail.com</span></p>
             </div>
             <input className='bg-[#eeeeee] p-2' type="text"  placeholder='Name' name='name' />
