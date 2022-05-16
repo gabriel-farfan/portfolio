@@ -34,9 +34,9 @@ const Contact = () => {
                 
                 <p className='text-[#eeeeee] py-4'>Submit the form below or shoot me an email - <span className='font-bold text-[#051F39]'>gmfarfan85@gmail.com</span></p>
             </div>
-            <input className='bg-[#eeeeee] p-2' type="text"  placeholder='Name' name='name' />
-            <input className='my-4 p-2 bg-[#eeeeee]' type="email" placeholder='Email' name='email' />
-            <textarea className='bg-[#eeeeee] p-2' name="message" rows="8" placeholder='Message'></textarea>
+            <input className='bg-[#eeeeee] p-2' type="text"  placeholder='Name' name='name' required/>
+            <input className='my-4 p-2 bg-[#eeeeee]' type="email" placeholder='Email' name='email' required/>
+            <textarea className='bg-[#eeeeee] p-2' name="message" rows="8" placeholder='Message' required></textarea>
             <button className='text-[#051F39] border-[#051F39] border-2 hover:bg-[#051F39] hover:text-[#d8fc37] hover:border-[#d8fc37] px-4 py-3 my-8 mx-auto flex items-center'>Let's Collaborate</button>
         </form>
     </div>

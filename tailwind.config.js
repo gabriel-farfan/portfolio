@@ -19,7 +19,7 @@ module.exports = {
     },
     extend: {
       // backgroundImage: { 'cover-pic': "url('/public/foto3.jpg')" }
-      backgroundImage: { 'cover-pic': "radial-gradient(at center bottom, rgb(56, 189, 248), rgb(49, 46, 129))" }
+      // backgroundImage: { 'cover-pic': "radial-gradient(at center bottom, rgb(56, 189, 248), rgb(49, 46, 129))" }
     },
   },
   plugins: [],

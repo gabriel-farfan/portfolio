@@ -19,6 +19,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #3469B2;
+    /* background-color: #3f6196; */
+    /* background-color: #3583C8; */
 }
 
 .content-div {

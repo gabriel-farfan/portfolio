@@ -25,7 +25,7 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${lush})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -48,11 +48,11 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${netflick})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center text-center mx-auto content-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
+            <div className='opacity-0 group-hover:opacity-100 ' >
+              <span className='text-2xl font-bold text-white tracking-wider text-center'>
                 Netflick (Netflix Clone)
               </span>
               <div className='pt-8 text-center'>
@@ -72,7 +72,7 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${cursos})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -95,7 +95,7 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${mytinerary})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -119,7 +119,7 @@ const Work = () => {
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${ourbakery})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -142,12 +142,12 @@ const Work = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${weather})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                Local Realtime Weather App
+                Weather App
               </span>
               <div className='pt-8 text-center'>
                 <a href='https://weather-app-fecth-api.netlify.app/'>
