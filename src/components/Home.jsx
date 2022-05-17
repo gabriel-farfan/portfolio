@@ -12,7 +12,7 @@ const Home = () => {
     >
       {/* Container */}
       <div className="pt-32 sm:py-0 w-2/3 my-auto mx-auto flex flex-col justify-center items-center h-auto ">
-        <img src={Profile} alt="Logo Image" className="w-80" />
+        <img src={Profile} alt="Logo" className="w-80" />
         {/* <img src={Profile} pl-8 alt="Logo Image" style={{ width: "15rem" }}  /> */}
       </div>
       <div className="py-8 sm:justify-center w-full max-w-[1000px] mx-auto sm:w-2/3 px-8 flex flex-col sm:min-h-screen  ">

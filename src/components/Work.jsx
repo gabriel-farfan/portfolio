@@ -33,12 +33,12 @@ const Work = () => {
                 Lush
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://lush-app.herokuapp.com/'>
+                <a href='https://lush-app.herokuapp.com/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/Lush'>
+                <a href='https://github.com/gabriel-farfan/Lush' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -56,12 +56,12 @@ const Work = () => {
                 Netflick (Netflix Clone)
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://netflick.vercel.app/'>
+                <a href='https://netflick.vercel.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/netflick'>
+                <a href='https://github.com/gabriel-farfan/netflick' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -80,12 +80,12 @@ const Work = () => {
                 Courses Ecommerce
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://courses-store-model.netlify.app/'>
+                <a href='https://courses-store-model.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/Ecommerce-Cursos'>
+                <a href='https://github.com/gabriel-farfan/Ecommerce-Cursos' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -103,12 +103,12 @@ const Work = () => {
                 MyTinerary
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://mytinerary-farfan.herokuapp.com/'>
+                <a href='https://mytinerary-farfan.herokuapp.com/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/mytinerary-farfan'>
+                <a href='https://github.com/gabriel-farfan/mytinerary-farfan' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -127,12 +127,12 @@ const Work = () => {
                 Our Bakery
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://proyecto-react-gamma.vercel.app/'>
+                <a href='https://proyecto-react-gamma.vercel.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/proyecto-react'>
+                <a href='https://github.com/gabriel-farfan/proyecto-react' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -150,12 +150,12 @@ const Work = () => {
                 Weather App
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://weather-app-fecth-api.netlify.app/'>
+                <a href='https://weather-app-fecth-api.netlify.app/' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/gabriel-farfan/weather-app'>
+                <a href='https://github.com/gabriel-farfan/weather-app' target="_blank" rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>

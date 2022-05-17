@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
-import { Link } from "react-scroll";
+// import { Link } from "react-scroll";
 
 const Contact = () => {
   return (
