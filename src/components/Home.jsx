@@ -16,7 +16,7 @@ const Home = () => {
         {/* <img src={Profile} pl-8 alt="Logo Image" style={{ width: "15rem" }}  /> */}
       </div>
       <div className="py-8 sm:justify-center w-full max-w-[1000px] mx-auto sm:w-2/3 px-8 flex flex-col sm:min-h-screen  ">
-        <p className="text-3xl text-[#A8DADC]">Welcome! My name is</p>
+        <p className="text-xl sm:text-3xl text-[#cefcfd]">Welcome! My name is</p>
         <h1 className="text-4xl md:text-4xl lg:text-6xl  font-bold text-[#d8fc37] ">
           Gabriel Farfán
         </h1>

@@ -94,6 +94,11 @@ const Navbar = () => {
              <span className='hover:text-[#d8fc37]'>Contact</span>
           </Link>
         </li>
+        <li className='py-6 text-4xl'>
+          <a href='https://drive.google.com/drive/folders/1W02HL9h6_m_mizb9C2yIInmxUvwiprK7?usp=sharing' target="_blank" rel="noreferrer">
+             <p className='text-[#d8fc37] hover:text-blue-400 '>CV Download</p>
+          </a>
+        </li>
       </ul>
 
     </div>
