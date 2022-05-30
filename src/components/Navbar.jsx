@@ -17,6 +17,7 @@ const Navbar = () => {
       </div>
 
       {/* menu */}
+      {/* The "link to" goes to the Name tag of each main div of each component. */}
       <ul className='hidden md:flex'>
         <li>
           <Link to='home' smooth={true} duration={500} >
@@ -43,6 +44,11 @@ const Navbar = () => {
           <Link to='contact' smooth={true} duration={500}>
              <p className='hover:text-[#d8fc37]'>Contact</p>
           </Link>
+        </li>
+        <li>
+          <a href='https://drive.google.com/drive/folders/1W02HL9h6_m_mizb9C2yIInmxUvwiprK7?usp=sharing' target="_blank" rel="noreferrer">
+             <p className='text-[#d8fc37] font-bold hover:text-blue-400 '>CV Download</p>
+          </a>
         </li>
       </ul>
 
